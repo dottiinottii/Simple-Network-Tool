@@ -1,4 +1,4 @@
-# ✨ | Simple-Network-Tool
+# Simple-Network-Tool
 A very simple network tool that allows you to do multiple Network Things.
 
 - Ping Test
@@ -16,11 +16,11 @@ A very simple network tool that allows you to do multiple Network Things.
 - Network Speed Test ( Inside of the cmd window using python speedtest-cli ) 
 - Everything That Is Done Is Put Into A Log File, So There Is A View Log Option As Well
 
-# 🚧 | Auto Requirement Installation
+# Auto Requirement Installation
 
 Auto Checks And Installs **Curl & Python** ( if they are not already installed )
 
-## 📝 | [Support Server](https://discord.gg/broken)
+## [Support Server](https://discord.gg/broken)
 
 Having Any Issues Running or Editing This Code ?
 - Feel Free To Join Our Discord And Ask @wyap For Help With The Code
